@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "x81Xeft/S8eao5M29CBlr/uxCv1Yu24y2Ec30aRkq0Y=",
+  "Source": "nhom 13",
+  "BasePath": "_content/nhom 13",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "nhom 13\\wwwroot",
+      "Source": "nhom 13",
+      "ContentRoot": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\",
+      "BasePath": "_content/nhom 13",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\uploads\\asddasfasf.jpg",
+      "SourceId": "nhom 13",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\",
+      "BasePath": "_content/nhom 13",
+      "RelativePath": "uploads/asddasfasf.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\asddasfasf.jpg"
+    },
+    {
+      "Identity": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\uploads\\Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg",
+      "SourceId": "nhom 13",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\",
+      "BasePath": "_content/nhom 13",
+      "RelativePath": "uploads/Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg"
+    },
+    {
+      "Identity": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\uploads\\images.jpg",
+      "SourceId": "nhom 13",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\",
+      "BasePath": "_content/nhom 13",
+      "RelativePath": "uploads/images.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\images.jpg"
+    }
+  ]
+}
