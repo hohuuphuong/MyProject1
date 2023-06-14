@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="news_app">News App</string>
+    <string name="ang_theo_d_i">Cho bạn</string>
+    <string name="tin_b_i_l_u">Tin bài đã lưu</string>
+    <string name="tin_chinh">Tin chính</string>
+    <string name="tin_bai_hang_dau">Tin bài hàng đầu</string>
+    <string name="tin_bai_danh_cho_ban">Tin bài dành cho bạn</string>
+    <string name="bao_tuoi_tre">Báo Tuổi Trẻ</string>
+    <string name="saved_articles">Tin bài đã lưu</string>
+</resources>
