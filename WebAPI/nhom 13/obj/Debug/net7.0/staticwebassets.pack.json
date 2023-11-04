@@ -1,16 +1,20 @@
 {
   "Files": [
     {
-      "Id": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\uploads\\Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg",
+      "Id": "D:\\MyProject1\\WebAPI\\nhom 13\\wwwroot\\uploads\\Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg",
       "PackagePath": "staticwebassets\\uploads\\Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg"
     },
     {
-      "Id": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\uploads\\asddasfasf.jpg",
+      "Id": "D:\\MyProject1\\WebAPI\\nhom 13\\wwwroot\\uploads\\asddasfasf.jpg",
       "PackagePath": "staticwebassets\\uploads\\asddasfasf.jpg"
     },
     {
-      "Id": "D:\\ThucTapKTPM\\nhom 13\\nhom 13\\wwwroot\\uploads\\images.jpg",
+      "Id": "D:\\MyProject1\\WebAPI\\nhom 13\\wwwroot\\uploads\\images.jpg",
       "PackagePath": "staticwebassets\\uploads\\images.jpg"
+    },
+    {
+      "Id": "D:\\MyProject1\\WebAPI\\nhom 13\\wwwroot\\uploads\\priority.png",
+      "PackagePath": "staticwebassets\\uploads\\priority.png"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.nhom 13.props",
